@@ -1,7 +1,8 @@
-- 👋 Hi there, I’m Roberta!
-- 🌱 I’m currently learning Front Web Development at the Alura/Oracle
-- 👀 I’m interested in programming,image editing.
-- 💞️ Analyst at Brisanet| Civil Infrastructure
+ **👋 Hi there, I’m Roberta! :dizzy:**
+- I’m currently learning Front Web Development at the Alura | Oracle Next Education
+- I’m interested in programming,image editing.
+- Analyst at Brisanet | Civil Infrastructure
+- Civil engineer in career transition
 
 
 <!---
